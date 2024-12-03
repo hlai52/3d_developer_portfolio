@@ -27,7 +27,7 @@
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.0.4",
-    "autoprefixer": "^10.4.15",
+    "autoprefixer": "^10.4.19",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.1",
     "globals": "^15.0.0",
